@@ -1,8 +1,5 @@
 # LICENSE PLATE DETECTION AND RECOGNITION
 
-## _Computational Photography Final Project_
-#### _by Pallavi Jain and Sid Ahuja_
-
 #### Introduction
 Automatic License Plate Recognition technology has been popular due to its wide range of applications in intelligent transportation systems, traffic management, toll automation, journey time analysis, etc. Due to the variation in the background and font color, font style, size of the license plate, and non-standard characters, license plate recognition is a great challenge in many countries. To overcome such issues, this study applies a deep-learning strategy to improve license plate recognition efficiency. We hope to understand and utilize the computational photography concepts that aid in detecting and recognizing license plate numbers. We also intend to learn and implement supervised machine learning algorithms to achieve the stated outcomes.
 
